@@ -2,7 +2,7 @@
 
 int mian()
 {
-    printf("Hello, World");
+    printf("Hello, C World");
 
     return 0;
 }
